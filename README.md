@@ -2,9 +2,8 @@
 
 ## db part (MongoDB)
 Assume that MongoDB has already run in localhost. This script inserts your name and age into MongoDB Collection.
-
-
-(Database: baedalgeek_test / Collection: Users)
+ * db name: baedalgeek_test
+ * collection name: Users
 
 
 ### **Used Frameworks**
