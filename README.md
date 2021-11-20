@@ -13,5 +13,5 @@ Assume that MongoDB has already run in localhost. This script inserts your name 
 
 
 ### **Usage**
-    python mongodb_test.py
+    cd db; python python-mongodb.py
 Type your name and age in the terminal.
